@@ -1,3 +1,9 @@
 # Kotlin Example
 
-코틀린 안드로이드 프로젝트가 어떤 식으로 돌아가는지를 파악하기 위한 예제입니다.
+코틀린 문법을 익히기 위한 예제입니다.
+
+코드는 다음 경로에 있습니다.
+
+`app/src/main/java/com/example/kotlinexample`
+
+## Variables
